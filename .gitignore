@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Configuración de VS Code
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Certificado SSL (descargar manualmente)
+data/raw/CA.pem
